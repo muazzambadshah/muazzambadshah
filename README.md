@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher @ NCAI, NUST Islamabad · Deep Learning · Medical Imaging · AI for Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://muazzam-portfolio-2wk1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://muazzam-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muazzam-badshah-338881381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=muazzambadshah&style=for-the-badge&color=blue" alt="profile views"/>
 </p>
@@ -57,4 +57,4 @@
 </p>
 
 ### 📫 Let's connect
-Open to research collaborations in **medical AI, computer vision and AI security**: reach me on [LinkedIn](https://www.linkedin.com/in/muazzam-badshah-338881381) or via my [portfolio](https://muazzam-portfolio-2wk1.vercel.app/).
+Open to research collaborations in **medical AI, computer vision and AI security**: reach me on [LinkedIn](https://www.linkedin.com/in/muazzam-badshah-338881381) or via my [portfolio](https://muazzam-portfolio.vercel.app/).
