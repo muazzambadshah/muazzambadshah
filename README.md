@@ -48,7 +48,7 @@
 | 🌐 [Flow-based Malware Detection](https://github.com/muazzambadshah/flow-malware-detection) | CICIoT2023 intrusion detection with MLP + FastAPI | TensorFlow, FastAPI |
 | 🔐 [VoiceLock](https://github.com/muazzambadshah/voicelock) | Voice biometrics, deepfake-voice detection, steganography | TensorFlow, Librosa |
 | 🎙️ [Muazzam AI Assistant](https://github.com/muazzambadshah/muazzam-ai-desktop-assistant) | Pashto/English voice assistant with wake word | Node.js, Python, Vosk, LLM |
-| 🌫️ [AQI Predictor](https://github.com/muazzambadshah/aqi_predictor) | Air-quality index forecasting | Python, ML |
+| 🌫️ [AQI Predictor](https://github.com/muazzambadshah/Pearls-AQI-Predictor) | Air-quality index forecasting | Python, ML |
 
 ### 📊 GitHub stats
 <p align="center">
